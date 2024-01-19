@@ -1,6 +1,21 @@
 # next-auth tutorial
 
-# part 1-1
+
+
+# part 2
+
+## set up prisma + planetscale MYSQL database
+
+planetscale
+https://planetscale.com/
+
+
+prisma + nextjs
+https://www.prisma.io/nextjs
+
+
+
+# part 1
 
 ## nextJS + Shadcn setup
 
