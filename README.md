@@ -1,18 +1,21 @@
 # next-auth tutorial
 
 
-
 # part 2
 
-## set up prisma + planetscale MYSQL database
+## set up prisma + vercel storage
 
-planetscale
-https://planetscale.com/
-
+vercel storage
+https://vercel.com/docs/storage/vercel-postgres
 
 prisma + nextjs
 https://www.prisma.io/nextjs
 
+github:
+https://github.com/kon-rad/tutorial-ai-saas/tree/part-2
+
+nextjs API routes
+https://nextjs.org/docs/pages/building-your-application/routing/api-routes
 
 
 # part 1
